@@ -1,10 +1,14 @@
-## Multiplicar Console App
+# multiplicar-node
 
-Esta es una aplicacion para generar archivos de tablas de
-multiplicar
+Aplicación de línea de comandos en Node.js para multiplicación. Proyecto de práctica del curso de Node.js.
 
-Ejecutar este comando
+## Tecnologías
 
-```
-npm install
+- Node.js
+- JavaScript
+
+## Ejecución
+
+```bash
+node app.js
 ```
